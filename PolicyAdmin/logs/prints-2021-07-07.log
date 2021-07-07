@@ -1,0 +1,8 @@
+10:21:06.887 [TestNG-tests-1] INFO  resources.Base - navigated to home page
+10:21:07.738 [TestNG-tests-1] INFO  resources.Base - clicked on log in
+10:21:10.392 [TestNG-tests-2] INFO  resources.Base - driver quit
+10:21:15.372 [TestNG-tests-1] INFO  resources.Base - entered username
+10:21:15.462 [TestNG-tests-1] INFO  resources.Base - entered password
+10:21:15.462 [TestNG-tests-1] INFO  resources.Base - restricted
+10:21:18.140 [TestNG-tests-1] INFO  resources.Base - clicked on sign in
+10:21:21.077 [TestNG-tests-1] INFO  resources.Base - navigated to home page

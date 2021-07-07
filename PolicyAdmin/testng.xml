@@ -1,0 +1,15 @@
+<suite name="Suite1" parallel="tests">
+    <listeners>
+        <listener class-name="insurity.Listeners"/>
+    </listeners>
+    <test name="Validate user login">
+        <classes>
+            <class name="insurity.HomePage"/>
+        </classes>
+    </test>
+        <test name="Validate title">
+            <classes>
+                <class name="insurity.ValidateCaption"/>
+            </classes>
+        </test>
+</suite>

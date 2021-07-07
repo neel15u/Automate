@@ -1,0 +1,9 @@
+20:27:19.312 [main] INFO  resources.Base - restricted
+20:27:21.311 [main] INFO  resources.Base - clicked on sign in
+20:27:44.209 [main] INFO  resources.Base - navigated to home page
+20:27:44.366 [main] INFO  resources.Base - clicked on log in
+20:27:48.532 [main] INFO  resources.Base - entered username
+20:27:48.637 [main] INFO  resources.Base - entered password
+20:27:48.637 [main] INFO  resources.Base - not-restricted
+20:27:52.229 [main] INFO  resources.Base - clicked on sign in
+20:27:52.934 [main] INFO  resources.Base - driver quit

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite1]" verbose="0">
+  <listeners>
+    <listener class-name="insurity.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Validate title(failed)" verbose="0">
+    <classes>
+      <class name="insurity.ValidateCaption">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+          <include name="validateTitle"/>
+        </methods>
+      </class> <!-- insurity.ValidateCaption -->
+    </classes>
+  </test> <!-- Validate title(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

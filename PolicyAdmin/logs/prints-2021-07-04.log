@@ -1,0 +1,9 @@
+23:55:45.154 [main] INFO  resources.Base - clicked on log in
+23:55:52.875 [main] INFO  resources.Base - entered username
+23:55:53.201 [main] INFO  resources.Base - entered password
+23:55:53.201 [main] INFO  resources.Base - restricted
+23:55:57.676 [main] INFO  resources.Base - clicked on sign in
+23:56:03.204 [main] INFO  resources.Base - navigated to home page
+23:56:03.641 [main] INFO  resources.Base - clicked on log in
+23:56:08.323 [main] INFO  resources.Base - entered username
+23:56:08.625 [main] INFO  resources.Base - entered password
